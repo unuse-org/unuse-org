@@ -60,25 +60,37 @@
 # 2023
 - イベント名 : 「ゲームマーケット2023春」
 - 出展ゲーム ： 「キューブでポン！」
-- URL : https://gamemarket.jp/gamemarket/2023s
+- イベントURL : https://gamemarket.jp/gamemarket/2023s
+- ゲームURL : [https://github.com/organization/repository](https://github.com/unuse-org/cubedepon)  
 ---
 - イベント名 : 「BitSummit」
 - 出展ゲーム ： 「キューブでポン！」
-- URL : https://bitsummit.org/2023/
+- イベントURL : https://bitsummit.org/2023/
+- ゲームURL : [https://github.com/organization/repository](https://github.com/unuse-org/cubedepon)  
 ---
 - イベント名 : 「TOKYO GAME SHOW 2023」
 - 出展ゲーム ： 「キューブでポン！」
-- URL : https://expo.nikkeibp.co.jp/tgs/2023/jp/
+- イベントURL : https://expo.nikkeibp.co.jp/tgs/2023/jp/
+- ゲームURL : [https://github.com/organization/repository](https://github.com/unuse-org/cubedepon)  
 
 # 2024
 - イベント名 : 「BIC (Busan Indie Connect Festival)」
 - 出展ゲーム ： 「キューブでポン！(英語版)」
-- URL : https://bicfest.org/
+- イベントURL : https://bicfest.org/
+- ゲームURL : [https://github.com/organization/repository](https://github.com/unuse-org/cubedepon)
+
 ---
 - イベント名 : 「TOKYO GAME SHOW 2024」
 - 出展ゲーム ： 「リーフカッター」
-- URL : https://expo.nikkeibp.co.jp/tgs/2024/jp/
+- イベントURL : https://expo.nikkeibp.co.jp/tgs/2024/jp/
+- ゲームURL : [まだ]
 
+---
+# 2025
+- イベント名 : 「BitSummit」
+- 出展ゲーム ： 「シネマオペレーター」
+- イベントURL : https://bitsummit.org/2025/
+- ゲームURL : [https://github.com/organization/repository](https://github.com/unuse-org/cinema)
 
 ---
 
