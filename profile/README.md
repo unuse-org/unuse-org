@@ -73,7 +73,11 @@
 # 2024
 - イベント名 : 「BIC (Busan Indie Connect Festival)」
 - 出展ゲーム ： 「キューブでポン！(英語版)」
-- URL : https://gamemarket.jp/gamemarket/2023s](https://bicfest.org/
+- URL : https://bicfest.org/
+---
+- イベント名 : 「TOKYO GAME SHOW 2024」
+- 出展ゲーム ： 「リーフカッター」
+- URL : https://expo.nikkeibp.co.jp/tgs/2024/jp/
 
 
 ---
