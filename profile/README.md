@@ -93,7 +93,11 @@
 - ゲームURL : [https://github.com/organization/repository](https://github.com/unuse-org/cinema)
 
 ---
-
+- イベント名 : 「デジゲー博」
+- 出展ゲーム ： 「シネマオペレーター」
+- イベントURL : https://digigame-expo.org/
+- ゲームURL : [https://github.com/organization/repository](https://github.com/unuse-org/cinema)
+---
 ## 📫 Contact
 連絡先やSNSなど
 
