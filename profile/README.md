@@ -85,7 +85,7 @@
 ## 📫 Contact
 連絡先やSNSなど
 
-- Email: example@example.com
-- Twitter: https://twitter.com/xxxx
+- Email: contact@unuse.jp
+- Twitter: https://x.com/unuse_ait
 
 ---
