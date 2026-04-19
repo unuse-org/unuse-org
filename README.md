@@ -21,8 +21,8 @@
 | 太田　拓海 | リーダー | https://github.com/otakumi-bekon |
 | shiruku-shibata | 組み込みシステム | https://github.com/shiruku-shibata |
 | Niimi | インフラ・ゲームプログラマー | https://github.com/shiruku-shibata |
-| SHU144 | デザイナー | SHU144 |
-| Taketani Shinjirou | デザイナー | chiroru-taketani |
+| SHU144 | デザイナー | https://github.com/SHU144 |
+| Taketani Shinjirou | デザイナー | https://github.com/chiroru-taketani |
 
 
 ---
