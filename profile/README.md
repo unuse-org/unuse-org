@@ -61,10 +61,20 @@
 - イベント名 : 「ゲームマーケット2023春」
 - 出展ゲーム ： 「キューブでポン！」
 - URL : https://gamemarket.jp/gamemarket/2023s
-  
+---
 - イベント名 : 「BitSummit」
 - 出展ゲーム ： 「キューブでポン！」
 - URL : https://bitsummit.org/2023/
+---
+- イベント名 : 「TOKYO GAME SHOW 2023」
+- 出展ゲーム ： 「キューブでポン！」
+- URL : https://expo.nikkeibp.co.jp/tgs/2023/jp/
+
+# 2024
+- イベント名 : 「ゲームマーケット2023春」
+- 出展ゲーム ： 「キューブでポン！」
+- URL : https://gamemarket.jp/gamemarket/2023s
+
 
 ---
 
